@@ -43,3 +43,50 @@ I am a Data Analyst with extensive experience in Business Intelligence and finan
 ---
 
 Explore my projects and contributions to the data analytics community on my [GitHub](https://github.com/CfDussan) profile.
+
+## Carlos Fernando Dussán Rivera
+
+**CfDussan/Cfdussan** es un repositorio ✨ _especial_ ✨ porque su archivo `README.md` (este archivo) aparece en tu perfil de GitHub.
+
+### 👨‍💻 Sobre mí
+
+Soy un Analista de Datos con amplia experiencia en Business Intelligence y análisis de datos financieros. Mi formación como Ingeniero Industrial, combinada con un máster en Gerencia de Mercadeo Estratégico, me ha permitido desarrollar un enfoque integral para convertir datos en información valiosa que apoye la toma de decisiones estratégicas y el crecimiento empresarial. Me especializo en el uso de herramientas como Python, SQL y Power BI para crear soluciones analíticas que optimizan el rendimiento operativo y financiero.
+
+### 🔭 Actualmente estoy trabajando en
+
+- Implementar dashboards interactivos en Power BI para la visualización de datos financieros y operativos.
+- Automatizar procesos de análisis de datos utilizando Python y SQL para mejorar la eficiencia en la toma de decisiones.
+
+### 🌱 Actualmente estoy aprendiendo
+
+- Técnicas avanzadas de machine learning para su aplicación en análisis predictivo.
+- Mejora continua en análisis de Big Data y técnicas de almacenamiento en la nube.
+
+### 👯 Estoy buscando colaborar en
+
+- Proyectos de Business Intelligence y Data Analytics que requieran experiencia en análisis de datos, visualización y optimización de procesos.
+- Iniciativas que integren el análisis de datos financieros con estrategias empresariales para maximizar la rentabilidad y la eficiencia.
+
+### 💬 Pregúntame sobre
+
+- Análisis de datos financieros y su impacto en la toma de decisiones empresariales.
+- Creación de dashboards en Power BI para la visualización y monitoreo de KPIs.
+- Estrategias de Business Intelligence para optimizar operaciones y reducir costos.
+
+### 📫 Cómo contactarme
+
+- **Correo electrónico:** cafedusriv@gmail.com
+- **LinkedIn:** [Carlos Fernando Dussán Rivera](https://www.linkedin.com/in/carlosfdussan/)
+
+### 😄 Pronombres
+
+- Él
+
+### ⚡ Dato curioso
+
+- Me apasiona usar datos para impulsar decisiones estratégicas, y siempre estoy emocionado por aprender nuevas técnicas para mejorar mis habilidades en análisis de datos.
+
+---
+
+Explora mis proyectos y contribuciones a la comunidad de análisis de datos en mi [GitHub](https://github.com/CfDussan).
+
