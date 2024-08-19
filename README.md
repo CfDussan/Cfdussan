@@ -1,7 +1,5 @@
 ## Carlos Fernando Dussán Rivera
 
-**CfDussan/Cfdussan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### 👨‍💻 About Me
 
 I am a Data Analyst with extensive experience in Business Intelligence and financial data analysis. My background as an Industrial Engineer, combined with a master’s degree in Strategic Marketing Management, has enabled me to develop a comprehensive approach to turning data into valuable insights that support strategic decision-making and business growth. I specialize in using tools like Python, SQL, and Power BI to create analytical solutions that optimize operational and financial performance.
@@ -45,8 +43,6 @@ I am a Data Analyst with extensive experience in Business Intelligence and finan
 Explore my projects and contributions to the data analytics community on my [GitHub](https://github.com/CfDussan) profile.
 
 ## Carlos Fernando Dussán Rivera
-
-**CfDussan/Cfdussan** es un repositorio ✨ _especial_ ✨ porque su archivo `README.md` (este archivo) aparece en tu perfil de GitHub.
 
 ### 👨‍💻 Sobre mí
 
