@@ -108,7 +108,8 @@ Soy un Analista de Datos con amplia experiencia en Business Intelligence y anál
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
-![Copilot](https://img.shields.io/badge/Copilot-FFFFFF?style=for-the-badge&logo=copilot&logoColor=black)
+![Copilot](https://img.shields.io/badge/GitHub_Copilot-24C4A7?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
 
 ### 😄 Pronombres
 
@@ -122,18 +123,3 @@ Soy un Analista de Datos con amplia experiencia en Business Intelligence y anál
 
 Explora mis proyectos y contribuciones a la comunidad de análisis de datos en mi [GitHub](https://github.com/CfDussan).
 
-!Python
-!Numpy
-!Pandas
-!Matplotlib
-!Seaborn
-!SQL
-!Microsoft SQL Server
-!Power BI
-!Excel
-!Google Sheets
-!Git
-!GitHub
-!Visual Studio Code
-!ChatGPT
-!Copilot
