@@ -122,3 +122,18 @@ Soy un Analista de Datos con amplia experiencia en Business Intelligence y anál
 
 Explora mis proyectos y contribuciones a la comunidad de análisis de datos en mi [GitHub](https://github.com/CfDussan).
 
+!Python
+!Numpy
+!Pandas
+!Matplotlib
+!Seaborn
+!SQL
+!Microsoft SQL Server
+!Power BI
+!Excel
+!Google Sheets
+!Git
+!GitHub
+!Visual Studio Code
+!ChatGPT
+!Copilot
