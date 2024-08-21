@@ -47,7 +47,7 @@ I am a Data Analyst with extensive experience in Business Intelligence and finan
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 ![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
+![Copilot](https://img.shields.io/badge/Copilot-FFFFFF?style=for-the-badge&logo=copilot&logoColor=black)
 
 ### 😄 Pronouns
 
