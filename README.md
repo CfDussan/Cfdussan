@@ -1,7 +1,7 @@
 ## Carlos Fernando Dussan
 Business Intelligence and Data Analysis Specialist | Process Optimization and Strategic Decision Making with Power BI, Python, SQL, Excel, and Google Sheets | Improving Business Efficiency and Profitability
 
-![Ubicación](https://path-to-your-image/location-icon.png) Niagara Falls, Ontario, Canada.
+Niagara Falls, Ontario, Canada.
 
 ### 👨‍💻 About Me
 
@@ -33,6 +33,7 @@ I am a Data Analyst with extensive experience in Business Intelligence and finan
 - **Email:** cafedusriv@gmail.com
 - **LinkedIn:** [Carlos Fernando Dussán Rivera](https://www.linkedin.com/in/carlosfdussan/)
 
+### 📞 +1 289-783-5020
 Niagara Falls, Ontario, Canada.
 
 ### 🛠️ Technologies & Tools
@@ -101,6 +102,7 @@ Soy un Analista de Datos con amplia experiencia en Business Intelligence y anál
 - **Correo electrónico:** cafedusriv@gmail.com
 - **LinkedIn:** [Carlos Fernando Dussán Rivera](https://www.linkedin.com/in/carlosfdussan/)
 
+### 📞 +1 289-783-5020
 Niagara Falls, Ontario, Canada.
 
 ### 🛠️ Tecnologías y Herramientas
