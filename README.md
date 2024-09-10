@@ -1,4 +1,4 @@
-## Carlos Fernando Dussán Rivera
+## Carlos Fernando Dussan
 Business Intelligence and Data Analysis Specialist | Process Optimization and Strategic Decision Making with Power BI, Python, SQL, Excel, and Google Sheets | Improving Business Efficiency and Profitability
 
 ### 👨‍💻 About Me
@@ -62,7 +62,7 @@ I am a Data Analyst with extensive experience in Business Intelligence and finan
 
 Explore my projects and contributions to the data analytics community on my [GitHub](https://github.com/CfDussan) profile.
 
-## Carlos Fernando Dussán Rivera
+## Carlos Fernando Dussán R.
 Especialista en Business Intelligence y Análisis de Datos | Optimización de Procesos y Toma de Decisiones Estratégicas con Power BI, Python, SQL, Excel y Google Sheets | Mejorando la Eficiencia y Rentabilidad Empresarial
 
 ### 👨‍💻 Sobre mí
