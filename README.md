@@ -1,6 +1,8 @@
 ## Carlos Fernando Dussan
 Business Intelligence and Data Analysis Specialist | Process Optimization and Strategic Decision Making with Power BI, Python, SQL, Excel, and Google Sheets | Improving Business Efficiency and Profitability
 
+Niagara Falls, Ontario, Canada.
+
 ### 👨‍💻 About Me
 
 I am a Data Analyst with extensive experience in Business Intelligence and financial data analysis. My background as an Industrial Engineer, combined with a master’s degree in Strategic Marketing Management, has enabled me to develop a comprehensive approach to turning data into valuable insights that support strategic decision-making and business growth. I specialize in using tools like Python, SQL, and Power BI to create analytical solutions that optimize operational and financial performance.
@@ -30,6 +32,7 @@ I am a Data Analyst with extensive experience in Business Intelligence and finan
 
 - **Email:** cafedusriv@gmail.com
 - **LinkedIn:** [Carlos Fernando Dussán Rivera](https://www.linkedin.com/in/carlosfdussan/)
+Niagara Falls, Ontario, Canada.
 
 ### 🛠️ Technologies & Tools
 
@@ -65,6 +68,8 @@ Explore my projects and contributions to the data analytics community on my [Git
 ## Carlos Fernando Dussán R.
 Especialista en Business Intelligence y Análisis de Datos | Optimización de Procesos y Toma de Decisiones Estratégicas con Power BI, Python, SQL, Excel y Google Sheets | Mejorando la Eficiencia y Rentabilidad Empresarial
 
+Niagara Falls, Ontario, Canada.
+
 ### 👨‍💻 Sobre mí
 
 Soy un Analista de Datos con amplia experiencia en Business Intelligence y análisis de datos financieros. Mi formación como Ingeniero Industrial, combinada con un máster en Gerencia de Mercadeo Estratégico, me ha permitido desarrollar un enfoque integral para convertir datos en información valiosa que apoye la toma de decisiones estratégicas y el crecimiento empresarial. Me especializo en el uso de herramientas como Python, SQL y Power BI para crear soluciones analíticas que optimizan el rendimiento operativo y financiero.
@@ -94,6 +99,7 @@ Soy un Analista de Datos con amplia experiencia en Business Intelligence y anál
 
 - **Correo electrónico:** cafedusriv@gmail.com
 - **LinkedIn:** [Carlos Fernando Dussán Rivera](https://www.linkedin.com/in/carlosfdussan/)
+Niagara Falls, Ontario, Canada.
 
 ### 🛠️ Tecnologías y Herramientas
 
