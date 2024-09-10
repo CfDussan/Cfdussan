@@ -1,7 +1,7 @@
 ## Carlos Fernando Dussan
 Business Intelligence and Data Analysis Specialist | Process Optimization and Strategic Decision Making with Power BI, Python, SQL, Excel, and Google Sheets | Improving Business Efficiency and Profitability
 
-Niagara Falls, Ontario, Canada.
+![Ubicación](https://path-to-your-image/location-icon.png) Niagara Falls, Ontario, Canada.
 
 ### 👨‍💻 About Me
 
