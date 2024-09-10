@@ -33,8 +33,8 @@ I am a Data Analyst with extensive experience in Business Intelligence and finan
 - **Email:** cafedusriv@gmail.com
 - **LinkedIn:** [Carlos Fernando Dussán Rivera](https://www.linkedin.com/in/carlosfdussan/)
 
-###### 📞 +1 289-783-5020
-Niagara Falls, Ontario, Canada.
+##### 📞 +1 289-783-5020
+ Niagara Falls, Ontario, Canada.
 
 ### 🛠️ Technologies & Tools
 
@@ -102,8 +102,8 @@ Soy un Analista de Datos con amplia experiencia en Business Intelligence y anál
 - **Correo electrónico:** cafedusriv@gmail.com
 - **LinkedIn:** [Carlos Fernando Dussán Rivera](https://www.linkedin.com/in/carlosfdussan/)
 
-📞 +1 289-783-5020
-Niagara Falls, Ontario, Canada.
+##### 📞 +1 289-783-5020
+ Niagara Falls, Ontario, Canada.
 
 ### 🛠️ Tecnologías y Herramientas
 
